@@ -1,5 +1,0 @@
-#+TITLE: Welcome to my website
-
-* Welcome to my website
-** Who Am I?
-Hello! My name is momed and i am a big nerd and hate my life.
