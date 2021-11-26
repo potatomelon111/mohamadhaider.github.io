@@ -1,12 +1,13 @@
+body {
+  background: #00c3ff;
+}
 
 h1 { 
   text-align: center;
 }
 
 nav ul li {
-    list-style-type: none;
-    display: inline;
-    margin-right: 10px;
-    margin-left: 10px;
+    display: inline block;
+    margin: 10px;
 }
 
