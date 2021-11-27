@@ -1,13 +1,30 @@
 body {
-  background: #00c3ff;
+  background: #a6e3ff;
+  font-family: "questrial", sans-serif;
 }
 
 h1 { 
   text-align: center;
 }
 
-nav ul li {
-    display: inline block;
-    margin: 10px;
+nav ul {
+  background-color: #a6e3ff;
+  border-style: solid;
+  border-color: Black;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
 }
 
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: White;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+}
