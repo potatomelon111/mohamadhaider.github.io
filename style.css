@@ -8,7 +8,7 @@ h1 {
 }
 
 .stylishBox {
-  background-color: #d6f2ff
+  background-color: #d6f2ff;
   border-style: solid;
   border-width: 2px;
   border-color: #F5FFFA;
@@ -39,5 +39,19 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white
+  color: white;
+}
+
+.column1 {
+  width: 48%;
+  float: left;
+}
+
+.column2 {
+  width: 48%;
+  float: right;
+}
+
+img{
+  max-width: 100%;
 }
