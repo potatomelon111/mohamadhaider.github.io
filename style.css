@@ -21,7 +21,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #f8edd9;
+  background-color: #91c8dc;
   position: fixed;
   top: 0;
   width: 100%;
@@ -40,13 +40,12 @@ nav li a {
 }
 
 nav li a:hover:not(.active) {
-  text-transform: lowercase;
+  text-transform: uppercase;
   background-color: #a7e0eb;
 }
 
 .active {
-  text-transform: uppercase;
-  background-color: #91c8dc;
+  background-color: #f8edd9;
 }
 .column1 {
   width: 48%;
@@ -67,7 +66,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: 729eab;
+  background-color: #91c8dc;
   color: white;
   text-align: center;
   position: fixed;
