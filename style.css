@@ -48,13 +48,6 @@ nav li a:hover:not(.active) {
 .active {
   background-color: #a7e0eb;
 }
-.column1 {
-  width: 48%;
-}
-
-.column2 {
-  width: 48%;
-}
 
 img{
   max-width: 100%;
