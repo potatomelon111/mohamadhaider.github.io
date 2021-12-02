@@ -49,12 +49,10 @@ nav li a:hover:not(.active) {
 }
 .column1 {
   width: 48%;
-  float: left;
 }
 
 .column2 {
   width: 48%;
-  float: right;
 }
 
 img{
@@ -69,5 +67,4 @@ footer {
   background-color: #91c8dc;
   color: white;
   text-align: center;
-  position: fixed;
 }
