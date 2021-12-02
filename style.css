@@ -35,7 +35,7 @@ nav li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 15px;
   text-decoration: none;
 }
 
@@ -67,4 +67,5 @@ footer {
   background-color: #91c8dc;
   color: white;
   text-align: center;
+  padding: 12px 15px;
 }
