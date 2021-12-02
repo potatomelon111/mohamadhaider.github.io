@@ -41,11 +41,11 @@ nav li a {
 
 nav li a:hover:not(.active) {
   text-transform: uppercase;
-  background-color: #a7e0eb;
+  background-color: #91c8dc;
 }
 
 .active {
-  background-color: #f8edd9;
+  background-color: #a7e0eb;
 }
 .column1 {
   width: 48%;
@@ -64,7 +64,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #91c8dc;
+  background-color: #d2f1f3;
   color: white;
   text-align: center;
   padding: 12px 15px;
