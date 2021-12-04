@@ -13,7 +13,7 @@ header {
   color: white;
 }
 
-header h1 {
+header h3 {
   margin: 0;
 }
 
@@ -29,7 +29,7 @@ nav ul {
 }
 
 nav li {
-  float: left;
+  float: right;
 }
 
 nav li a {
