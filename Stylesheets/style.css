@@ -50,6 +50,13 @@ nav li a:hover:not(.active) {
   background-color: #a7e0eb;
 }
 
+.banner {
+  background-image: url(https://.../Banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed
+}
+
 img{
   max-width: 100%;
 }
